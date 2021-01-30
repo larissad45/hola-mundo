@@ -1,2 +1,2 @@
 # hola-mundo
-Mi segundo repositorio de GITHUM
+Mi segundo repositorio de GITHUB
